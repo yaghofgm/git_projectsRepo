@@ -1,0 +1,3 @@
+julia -t 2  //2 threads for the recording and transcribing
+include("synthgui.jl")
+then you can transcribeyor instrument or voice into tablature, and can also play with the synthesizer.
